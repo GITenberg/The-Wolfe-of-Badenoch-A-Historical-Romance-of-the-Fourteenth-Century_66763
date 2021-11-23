@@ -1,11 +1,16 @@
 _repo: The-Wolfe-of-Badenoch-A-Historical-Romance-of-the-Fourteenth-Century_66763
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 66763-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Dick-Lauder, Thomas
     gutenberg_agent_id: '53945'
     url: http://www.gutenberg.org/2009/agents/53945
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66763#The-Wolfe-of-Badenoch-A-Historical-Romance-of-the-Fourteenth-Century
 gutenberg_issued: '2021-11-18'
 identifiers:
   gutenberg: '66763'
